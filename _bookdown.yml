@@ -1,0 +1,5 @@
+book_filename: "Table of Distributions"
+output_dir: "docs"
+rmd_files: ["index.Rmd", 
+           "Chapters/DiscreteDist.Rmd",
+           "Chapters/ContinuousDist.Rmd"]
